@@ -9,3 +9,5 @@
 
 **网络：**[https://github.com/moX-xsm/mynotes/blob/master/network.md](https://github.com/moX-xsm/mynotes/blob/master/network.md)
 
+**C++：**[https://github.com/moX-xsm/mynotes/blob/master/C%2B%2B.md](https://github.com/moX-xsm/mynotes/blob/master/C%2B%2B.md)
+
